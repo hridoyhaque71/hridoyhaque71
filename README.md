@@ -42,7 +42,7 @@ const developer = {
 
 ---
 
-## 🔥 What I'm Working On
+## 💻 What I'm Working On
 
 - 🚀 Building enterprise-level web applications with ASP.NET Core and Angular
 - ☁️ Deepening my expertise in cloud technologies and microservices architecture
